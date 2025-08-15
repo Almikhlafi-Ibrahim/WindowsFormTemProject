@@ -34,5 +34,10 @@ namespace WindowsFormTemProject
         {
             textBox1.Text = "Hello World!";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //add buton
+        }
     }
 }
