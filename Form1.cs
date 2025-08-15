@@ -29,5 +29,10 @@ namespace WindowsFormTemProject
             // chabge the coloer to balck
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            textBox1.Text = "Hello World!";
+        }
     }
 }
