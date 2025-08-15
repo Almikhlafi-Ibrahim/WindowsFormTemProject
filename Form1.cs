@@ -21,6 +21,7 @@ namespace WindowsFormTemProject
         {
             label1.BackColor = Color.black;
             //this commint add by ibarhim 
+            // chabge the coloer to balck
         
         }
     }
