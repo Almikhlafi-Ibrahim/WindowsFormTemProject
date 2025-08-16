@@ -45,5 +45,10 @@ namespace WindowsFormTemProject
         {
             button1.BackColor = Color.Black;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
