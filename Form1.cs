@@ -40,10 +40,5 @@ namespace WindowsFormTemProject
             //add buton
             // add
         }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
