@@ -38,6 +38,7 @@ namespace WindowsFormTemProject
         private void button1_Click(object sender, EventArgs e)
         {
             //add buton
+            // add
         }
 
         private void label2_Click(object sender, EventArgs e)
