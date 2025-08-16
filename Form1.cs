@@ -10,40 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormTemProject
 {
-    public partial class Form1: Form
+    public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-            label1.BackColor = Color.Black;
-            //this commint add by ibarhim 
-            // chabge the coloer to balck
-            // chabge the coloer to balck
-            // chabge the coloer to balck
-            // chabge the coloer to balck
-            // chabge the coloer to balck
-            // chabge the coloer to balck
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            textBox1.Text = "Hello World!";
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            //add buton
-            // add
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            button1.BackColor = Color.Black;
         }
 
         private void Form1_Load(object sender, EventArgs e)
